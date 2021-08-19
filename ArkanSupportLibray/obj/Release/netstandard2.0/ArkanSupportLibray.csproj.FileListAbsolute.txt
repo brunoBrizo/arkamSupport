@@ -1,0 +1,9 @@
+D:\src\arkamSupport\ArkanSupportLibray\bin\Release\netstandard2.0\ArkanSupportLibray.deps.json
+D:\src\arkamSupport\ArkanSupportLibray\bin\Release\netstandard2.0\ArkanSupportLibray.dll
+D:\src\arkamSupport\ArkanSupportLibray\bin\Release\netstandard2.0\ArkanSupportLibray.pdb
+D:\src\arkamSupport\ArkanSupportLibray\obj\Release\netstandard2.0\ArkanSupportLibray.AssemblyInfoInputs.cache
+D:\src\arkamSupport\ArkanSupportLibray\obj\Release\netstandard2.0\ArkanSupportLibray.AssemblyInfo.cs
+D:\src\arkamSupport\ArkanSupportLibray\obj\Release\netstandard2.0\ArkanSupportLibray.csproj.CoreCompileInputs.cache
+D:\src\arkamSupport\ArkanSupportLibray\obj\Release\netstandard2.0\ArkanSupportLibray.dll
+D:\src\arkamSupport\ArkanSupportLibray\obj\Release\netstandard2.0\ArkanSupportLibray.pdb
+D:\src\arkamSupport\ArkanSupportLibray\obj\Release\netstandard2.0\ArkanSupportLibray.csprojAssemblyReference.cache
