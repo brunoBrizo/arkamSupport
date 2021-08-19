@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAi1UUDdC/VUOYGjgQTSNjHAAAAAACAAAAAAAQZgAAAAEAACAAAACqKpdr+z+MFBPuYbUYYwkj/i72nK9ktKQbVKVTYuhtPgAAAAAOgAAAAAIAACAAAAA84W2nJR7hprTHjC2x9QdbKybvy7zj+9MiQhQZi8LBYyAAAAB+nSEXk0jD8xeJdcukHJKSYK7kOgPvKdwwV2UGr9azz0AAAACVUE7bV2kUcKRLr2btPy7S9Yt9RvsuC+t7eUVY/N8QZrg6gqG7ArqEq25nxwcklJlv/tx9sbKOFOjf1W651nGi</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.site4now.net/arkamapi</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>03/30/2021 10:46:08</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>03/30/2021 10:46:08</publishTime>
+    </File>
+    <File Include="ArkamSupport.deps.json">
+      <publishTime>08/09/2021 12:41:00</publishTime>
+    </File>
+    <File Include="ArkamSupport.dll">
+      <publishTime>08/09/2021 12:41:00</publishTime>
+    </File>
+    <File Include="ArkamSupport.exe">
+      <publishTime>08/09/2021 12:41:00</publishTime>
+    </File>
+    <File Include="ArkamSupport.pdb">
+      <publishTime>08/09/2021 12:41:00</publishTime>
+    </File>
+    <File Include="ArkamSupport.runtimeconfig.json">
+      <publishTime>08/09/2021 12:40:04</publishTime>
+    </File>
+    <File Include="ArkanSupportLibray.dll">
+      <publishTime>08/09/2021 12:40:04</publishTime>
+    </File>
+    <File Include="ArkanSupportLibray.pdb">
+      <publishTime>08/09/2021 12:40:04</publishTime>
+    </File>
+    <File Include="AutoMapper.dll">
+      <publishTime>10/16/2020 15:36:54</publishTime>
+    </File>
+    <File Include="AutoMapper.Extensions.Microsoft.DependencyInjection.dll">
+      <publishTime>02/05/2021 14:28:34</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Authentication.JwtBearer.dll">
+      <publishTime>02/17/2021 22:08:22</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.JsonPatch.dll">
+      <publishTime>02/17/2021 22:02:44</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll">
+      <publishTime>02/17/2021 22:10:34</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>06/24/2019 19:50:38</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>06/24/2019 19:53:26</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>06/24/2019 19:54:24</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>06/24/2019 19:59:32</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>06/24/2019 19:56:06</publishTime>
+    </File>
+    <File Include="Microsoft.Win32.SystemEvents.dll">
+      <publishTime>03/04/2021 17:50:34</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.Bson.dll">
+      <publishTime>11/27/2018 23:10:18</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>04/22/2019 01:06:16</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll">
+      <publishTime>03/04/2021 17:54:52</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll">
+      <publishTime>03/04/2021 17:58:46</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll">
+      <publishTime>03/04/2021 17:54:44</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll">
+      <publishTime>03/04/2021 17:57:52</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll">
+      <publishTime>03/04/2021 18:00:40</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll">
+      <publishTime>03/04/2021 18:01:08</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netstandard2.0/System.Security.AccessControl.dll">
+      <publishTime>03/04/2021 17:50:24</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>03/04/2021 18:00:18</publishTime>
+    </File>
+    <File Include="System.Configuration.ConfigurationManager.dll">
+      <publishTime>03/04/2021 18:00:30</publishTime>
+    </File>
+    <File Include="System.Drawing.Common.dll">
+      <publishTime>03/04/2021 17:58:42</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>06/24/2019 19:49:50</publishTime>
+    </File>
+    <File Include="System.Security.AccessControl.dll">
+      <publishTime>03/04/2021 17:51:40</publishTime>
+    </File>
+    <File Include="System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>03/04/2021 18:00:24</publishTime>
+    </File>
+    <File Include="System.Security.Permissions.dll">
+      <publishTime>03/04/2021 17:59:54</publishTime>
+    </File>
+    <File Include="System.Security.Principal.Windows.dll">
+      <publishTime>03/04/2021 17:48:02</publishTime>
+    </File>
+    <File Include="System.Windows.Extensions.dll">
+      <publishTime>03/04/2021 17:59:24</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>08/09/2021 12:41:06</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
